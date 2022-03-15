@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.myuitsu.vim2linenumber.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.myuitsu.vim2linenumber.MyBundle
 
 class MyProjectService(project: Project) {
 

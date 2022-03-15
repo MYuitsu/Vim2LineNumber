@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.myuitsu.vim2linenumber.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.myuitsu.vim2linenumber.MyBundle
 
 class MyApplicationService {
 
